@@ -1,0 +1,44 @@
+//EJERCIATION
+//01-Escribe un programa de una sola línea que haga que aparezca en la pantalla un alert que diga "un mensaje"
+
+
+
+//02-Escribe un programa de una sola línea que escriba en la pantalla un texto que diga "Hello World" (document.write)
+
+
+
+//03-Escribe un programa de una sola línea que escriba en la pantalla el resultado de sumar 3 + 5
+
+
+
+// 04-Escribe un programa de dos lineas que pida el nombre del usuario con un prompt y escriba un texto que diga "Hola nombreUsuario"
+
+
+
+// 05-Escribe un programa de tres líneas que pida un número, pida otro número y escriba el resultado de sumar estos dos números.
+
+
+
+// 06-Escribe un programa que pida dos números y escriba en la pantalla cual es el mayor.
+
+
+
+// 07-Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
+
+
+
+// 08-Escribe un programa que pida un número y diga si es divisible por 2
+
+
+
+// 09-Escribe un programa que pida una frase y escriba las vocales que aparecen
+
+
+
+// 10-Escribe un programa que pida un número y nos diga si es divisible por 2, 3, 5 o 7 (sólo hay que comprobar si lo es por uno de los cuatro)
+
+
+
+// 11-Añadir al ejercicio anterior que nos diga por cuál de los cuatro es divisible (hay que decir todos por los que es divisible)
+
+

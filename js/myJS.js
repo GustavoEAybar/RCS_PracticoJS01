@@ -38,12 +38,12 @@ document.write("\nEl mayor numero ingresado fue:", Math.max (parseInt(primerN), 
 
 // 08-Escribe un programa que pida un número y diga si es divisible por 2
 if (primerN % 2 == 0) {
-document.write("el primer numero es divisible por 2.");
+    document.write("el primer numero es divisible por 2.");
 } else {
     document.write("el primer numero no es divisible por 2.");
 };
 
-// 09-Escribe un programa que pida una frase y escriba las vocales que aparecen
+/*09-Escribe un programa que pida una frase y escriba las vocales que aparecen*/
 
 let frase = prompt('Ingrese una frase');
 
